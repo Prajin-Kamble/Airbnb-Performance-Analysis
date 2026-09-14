@@ -49,13 +49,13 @@ The dashboard includes the following key visuals:<br>
 - The platform experienced peak growth in 2015, followed by slowdown due to regulations and COVID-19 impact<br>
 - Growth lifecycle shows clear phases: rapid growth → maturity → decline → recovery<br>
 
-<b>Insight:<b> Airbnb is a mature platform with external dependency factors (regulations, pandemics)
+<b>Insight:</b> Airbnb is a mature platform with external dependency factors (regulations, pandemics)
 
 2. Market Share by City <br>
 - Paris, New York, and Sydney contribute nearly 50% of listings and 59% of reviews<br>
 - Paris has the highest listings and reviews globally<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 - Market is highly concentrated, not evenly distributed<br>
 - Few cities dominate supply → risk of over-dependence<br>
 
@@ -67,7 +67,7 @@ The dashboard includes the following key visuals:<br>
     - Private Room: $462<br>
 - Hotels are significantly more expensive → drives Airbnb adoption<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 
 - Airbnb succeeds due to price advantage over hotels<br>
 - “Entire Place” is a strong premium segment<br>
@@ -79,7 +79,7 @@ The dashboard includes the following key visuals:<br>
     - Cleanliness<br>
     - Value for money<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 - High supply ≠ high quality<br>
 - Operational quality issues directly impact ratings<br>
 
@@ -87,7 +87,7 @@ The dashboard includes the following key visuals:<br>
 - Most users write only 1 review<br>
 - 98.8% of users write ≤ 3 reviews<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 - Customer engagement is low and skewed<br>
 - Reviews are not frequent → limited feedback loop<br>
 
@@ -95,7 +95,7 @@ The dashboard includes the following key visuals:<br>
 - Paris & Rome peak: April – August (summer travel)<br>
 - New York peaks: Nov – Dec (holiday season)<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 - Demand is highly seasonal and location-dependent<br>
 - Travel patterns vary by geography<br>
 
