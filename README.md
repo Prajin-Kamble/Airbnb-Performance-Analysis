@@ -103,7 +103,7 @@ The dashboard includes the following key visuals:<br>
 - 66.9% hosts fully verified<br>
 - Nearly all hosts provide at least one trust signal<br>
 
-<b>Insight:<b><br>
+<b>Insight:</b><br>
 - Platform maintains strong trust foundation<br>
 - Very low anonymous/unverified presence<br>
 
