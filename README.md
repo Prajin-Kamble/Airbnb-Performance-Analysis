@@ -44,98 +44,105 @@ The dashboard includes the following key visuals:<br>
   - Verified vs Non-verified hosts<br>
 
 ## 4. Insights (Based on Client Questions + Dashboard Data)
+1. Big Picture / Overview - <br>
+- Airbnb operates across 10 cities with 2,79,712 listings and 1,82,024 hosts<br>
+- The platform experienced peak growth in 2015, followed by slowdown due to regulations and COVID-19 impact<br>
+- Growth lifecycle shows clear phases: rapid growth → maturity → decline → recovery<br>
 
-🔹 Big Picture / Overview
-Airbnb operates across 10 cities with 2,79,712 listings and 1,82,024 hosts
-The platform experienced peak growth in 2015, followed by slowdown due to regulations and COVID-19 impact
-Growth lifecycle shows clear phases: rapid growth → maturity → decline → recovery
+<b>Insight:<b> Airbnb is a mature platform with external dependency factors (regulations, pandemics)
 
-👉 Insight: Airbnb is a mature platform with external dependency factors (regulations, pandemics)
+2. Market Share by City <br>
+- Paris, New York, and Sydney contribute nearly 50% of listings and 59% of reviews<br>
+- Paris has the highest listings and reviews globally<br>
 
-🔹 Market Share by City
-Paris, New York, and Sydney contribute nearly 50% of listings and 59% of reviews
-Paris has the highest listings and reviews globally
+<b>Insight:<b><br>
+- Market is highly concentrated, not evenly distributed<br>
+- Few cities dominate supply → risk of over-dependence<br>
 
-👉 Insight:
+3. Property Type & Pricing <br>
+- Average prices:<br>
+    - Hotel Room: $800<br>
+    - Entire Place: $673<br>
+    - Shared Room: $580<br>
+    - Private Room: $462<br>
+- Hotels are significantly more expensive → drives Airbnb adoption<br>
 
-Market is highly concentrated, not evenly distributed
-Few cities dominate supply → risk of over-dependence
-🔹 Property Type & Pricing
-Average prices:
-Hotel Room: $800
-Entire Place: $673
-Shared Room: $580
-Private Room: $462
-Hotels are significantly more expensive → drives Airbnb adoption
+<b>Insight:<b><br>
 
-👉 Insight:
+- Airbnb succeeds due to price advantage over hotels<br>
+- “Entire Place” is a strong premium segment<br>
 
-Airbnb succeeds due to price advantage over hotels
-“Entire Place” is a strong premium segment
-🔹 Ratings & Customer Satisfaction
-Best-rated cities: Mexico City, Rio de Janeiro
-Worst-rated cities: Hong Kong, Istanbul
-Lowest scoring factors:
-Cleanliness
-Value for money
+4. Ratings & Customer Satisfaction<br>
+- Best-rated cities: Mexico City, Rio de Janeiro<br>
+- Worst-rated cities: Hong Kong, Istanbul<br>
+- Lowest scoring factors:<br>
+    - Cleanliness<br>
+    - Value for money<br>
 
-👉 Insight:
+<b>Insight:<b><br>
+- High supply ≠ high quality<br>
+- Operational quality issues directly impact ratings<br>
 
-High supply ≠ high quality
-Operational quality issues directly impact ratings
-🔹 Review Frequency (Customer Behavior)
-Most users write only 1 review
-98.8% of users write ≤ 3 reviews
+5. Review Frequency (Customer Behavior)<br>
+- Most users write only 1 review<br>
+- 98.8% of users write ≤ 3 reviews<br>
 
-👉 Insight:
+<b>Insight:<b><br>
+- Customer engagement is low and skewed<br>
+- Reviews are not frequent → limited feedback loop<br>
 
-Customer engagement is low and skewed
-Reviews are not frequent → limited feedback loop
-🔹 Seasonality Analysis
-Paris & Rome peak: April – August (summer travel)
-New York peaks: Nov – Dec (holiday season)
+6. Seasonality Analysis<br>
+- Paris & Rome peak: April – August (summer travel)<br>
+- New York peaks: Nov – Dec (holiday season)<br>
 
-👉 Insight:
+<b>Insight:<b><br>
+- Demand is highly seasonal and location-dependent<br>
+- Travel patterns vary by geography<br>
 
-Demand is highly seasonal and location-dependent
-Travel patterns vary by geography
-🔹 Trust & Host Verification
-66.9% hosts fully verified
-Nearly all hosts provide at least one trust signal
+7. Trust & Host Verification<br>
+- 66.9% hosts fully verified<br>
+- Nearly all hosts provide at least one trust signal<br>
 
-👉 Insight:
-
-Platform maintains strong trust foundation
-Very low anonymous/unverified presence
+<b>Insight:<b><br>
+- Platform maintains strong trust foundation<br>
+- Very low anonymous/unverified presence<br>
 
 ## 5. Recommendations
-🔸 Business Growth
-Expand in under-penetrated cities (reduce dependency on top 3 cities)
-Invest in emerging markets (Asia, Latin America)
-🔸 Pricing Strategy
-Promote “Entire Place” segment for higher revenue
-Maintain price advantage vs hotels
-Introduce dynamic pricing models for seasonal demand
-🔸 Customer Experience
-Improve:
-Cleanliness standards
-Value for money perception
-Introduce:
-Host quality training
-Standardization guidelines
-🔸 Engagement Improvement
-Encourage more reviews via:
-Incentives (discounts, coupons)
-Simplified review process
-🔸 Seasonality Optimization
-Launch seasonal marketing campaigns
-Help hosts with demand forecasting tools
-🔸 Trust & Safety
-Increase host verification to >80%
-Highlight trusted hosts in search ranking
-Strengthen fraud detection
-🔸 Risk Mitigation
-Reduce reliance on top cities
-Prepare contingency strategies for:
-Regulatory changes
-Global disruptions (like COVID)
+1. Business Growth
+- Expand in under-penetrated cities (reduce dependency on top 3 cities)
+- Invest in emerging markets (Asia, Latin America)
+
+2. Pricing Strategy
+- Promote “Entire Place” segment for higher revenue
+- Maintain price advantage vs hotels
+- Introduce dynamic pricing models for seasonal demand
+
+3. Customer Experience
+ - Improve:
+    - Cleanliness standards
+    - Value for money perception
+- Introduce:
+    - Host quality training
+    - Standardization guidelines
+
+4. Engagement Improvement
+ - Encourage more reviews via:
+    - Incentives (discounts, coupons)
+    - Simplified review process
+
+5. Seasonality Optimization
+- Launch seasonal marketing campaigns
+- Help hosts with demand forecasting tools
+
+6. Trust & Safety
+- Increase host verification to >80%
+- Highlight trusted hosts in search ranking
+- Strengthen fraud detection
+
+7. Risk Mitigation
+- Reduce reliance on top cities
+- Prepare contingency strategies for:
+    - Regulatory changes
+    - Global disruptions (like COVID)
+
+![Snapshot of Power BI dashboard](https://github.com/Prajin-Kamble/Airbnb-Performance-Analysis/blob/main/Screenshot%20of%20the%20dashboard.JPG)
